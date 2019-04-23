@@ -1,0 +1,16 @@
+{
+    "name": "images/exercise",
+    "description": "Images Exercise",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christian P",
+            "email": "po2@ierrr.com"
+        }
+    ],
+    "require": {
+        "league/color-extractor": "0.3.*",
+        "monolog/monolog": "^1.0"
+    }
+}
